@@ -18,7 +18,7 @@
         "naam": "California roll",
         "aantal": 6,
         "prijs": 13.10,
-        "img": "California.jpg"
+        "img": "california.jpg"
     },
     {
         "id": 4,
@@ -33,6 +33,26 @@
         "aantal": 6,
         "prijs": 5.70,
         "img": "komkommer.jpg"
+    },
+    {
+        "id": 6,
+        "naam": "Crispy roll",
+        "aantal": 6,
+        "prijs": 5.70,
+        "img": "crispy.jpg"
+    },
+    {
+        "id": 7,
+        "naam": "Dragon roll",
+        "aantal": 8,
+        "prijs": 13.70,
+        "img": "dragon.jpg"
+    },
+    {
+        "id": 8,
+        "naam": "Onigiri",
+        "aantal": 4,
+        "prijs": 8.35,
+        "img": "onigiri.jpg"
     }
 ]
-    
