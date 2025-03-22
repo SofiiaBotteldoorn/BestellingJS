@@ -31,14 +31,14 @@
         "id": 5,
         "naam": "Komkommer maki",
         "aantal": 6,
-        "prijs": 5.70,
+        "prijs": 5.60,
         "img": "komkommer.jpg"
     },
     {
         "id": 6,
         "naam": "Crispy roll",
         "aantal": 6,
-        "prijs": 5.70,
+        "prijs": 12.00,
         "img": "crispy.jpg"
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "id": 8,
-        "naam": "Onigiri",
-        "aantal": 4,
+        "naam": "Spicy maki",
+        "aantal": 8,
         "prijs": 8.35,
-        "img": "onigiri.jpg"
+        "img": "spicy.jpg"
     }
 ]
